@@ -4,7 +4,7 @@ Empty php environment
 Steps:
 
 - git clone https://github.com/renerecalde/demo.git
-- cd elite/demo
+- cd demo
 - make build
 
 Go to browser:
